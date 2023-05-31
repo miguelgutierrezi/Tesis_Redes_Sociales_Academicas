@@ -1,0 +1,22 @@
+Info,Number,Percentage,Source,Conference Paper,Article,Review,Proceedings Paper,Article in Press,Total
+***** Original data *****,,,,,,,,,
+Loaded papers,16299,,,,,,,,
+Omitted papers by document type,1726,10.6%,,,,,,,
+Total papers after omitted papers removed,14573,,,,,,,,
+Loaded papers from WoS,5412,37.1%,,,,,,,
+Loaded papers from Scopus,9161,62.9%,,,,,,,
+,,,WoS,"0, 0.0%","4908, 33.7%","504, 3.5%","0, 0.0%","0, 0.0%","5412, 37.1%"
+,,,Scopus,"1010, 6.9%","7356, 50.5%","795, 5.5%","0, 0.0%","0, 0.0%","9161, 62.9%"
+,,,,,,,,,
+Duplicated removal results:,,,,,,,,,
+Duplicated papers found,4227,29.0%,,,,,,,
+Removed duplicated papers from WoS,90,1.7%,,,,,,,
+Removed duplicated papers from Scopus,4137,45.2%,,,,,,,
+Duplicated documents with different cited by,3174,75.1%,,,,,,,
+Total papers after rem. dupl.,10346,,,,,,,,
+Papers from WoS,5322,51.4%,,,,,,,
+Papers from Scopus,5024,48.6%,,,,,,,
+,,,,,,,,,
+Statics after duplication removal filter,,,,,,,,,
+,,,WoS,"0, 0.0%","4824, 46.6%","498, 4.8%","0, 0.0%","0, 0.0%","5322, 51.4%"
+,,,Scopus,"956, 9.2%","3684, 35.6%","384, 3.7%","0, 0.0%","0, 0.0%","5024, 48.6%"
